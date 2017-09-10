@@ -1,1 +1,10 @@
 C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.pdb
