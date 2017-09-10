@@ -14,12 +14,11 @@ namespace Clase3EntityFramework
             Categories category = new Categories();
             category.Name = "Ferreteria";
             db.Categories.Add(category);
-            db.SaveChanges();
             Products producto = new Products();
             producto.Name = "Martillo";
             producto.Price = 30;
             producto.Categories.Add(category);
-            db.Products.Add(producto);
+            category.Products.Add(producto);
             db.SaveChanges();
 
         }
